@@ -1,0 +1,1 @@
+mysqldump -u MYSQLUSER -pPASSWORD --all-databases > all_databases.sql
