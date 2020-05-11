@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="Azure.Storage.Blobs" Version="12.4.2" />
+    <None Include="backup.sh" CopyToPublishDirectory="Always" />
+
   </ItemGroup>
 
 </Project>
